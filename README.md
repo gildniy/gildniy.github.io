@@ -2,7 +2,7 @@
 
 This the official repo for [Gildas Niyigena]'s professional Github page.
 
-The page will display different tips, experiences, but also some works realised by the author (Gildas). It will comprises different sections like:
+The page will display different tips, experiences, but also some works realised by the author (Gildas). It will include different sections like:
 
   - About
   - Blog
